@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <nav>
   <ul style="list-style-type: none; display: flex; justify-content: center; padding: 10px; background-color: #f4f4f4;">
