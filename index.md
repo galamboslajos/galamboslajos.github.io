@@ -18,6 +18,9 @@ layout: default
 
 I hold a Master’s in Economics, Data, and Policy from Central European University and a degree in International Relations from Corvinus University. Over the years, I’ve built financial analysis and data-driven decision-making skills, which I’m now putting to work in real-world investment projects. Whether it's optimizing portfolios, exploring eco-tourism investments, or structuring sustainable strategies, I’m all about turning insights into action.
 
+I have a deep appreciation for economic science and its role in shaping societies, policies, and markets. Beyond my work in investment analysis, I actively learn various fields within economics, from development economics to macroeconomics. I also maintain a strong interest in international relations and global affairs, regularly following geopolitical dynamics and policy shifts. A specific focus of mine has been Western Balkan and Central Eastern European affairs, both in terms of economic development and political evolution, as these regions present unique challenges and opportunities within the broader European landscape.
+
+
   <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lajosgalambos">Lajos Galambos</a></p>
   <p><strong>GitHub:</strong> <a href="https://github.com/galamboslajos">galamboslajos</a></p>
   <p><strong>Email:</strong> <a href="mailto:info@galamboscapital.com">info@galamboscapital.com</a></p>
