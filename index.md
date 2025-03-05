@@ -1,8 +1,5 @@
 ---
 layout: default
-
-title: Lajos Galambos
-subtitle: Analyst
 ---
 
 <nav>
