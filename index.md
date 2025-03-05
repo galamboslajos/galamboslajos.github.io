@@ -14,7 +14,7 @@ layout: default
 <div id="about" class="section">
   <h2>ABOUT</h2>
   <img src="./IMG_3785.HEIC" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:auto;">
-    <p>I’m an investment and wealth management analyst, currently managing a €3M multi-asset portfolio for a private HNW client, covering equities, fixed income, real estate, and alternative investments. I previously worked at Granit Asset Management, contributing to equity and real estate front-office projects.</p>
+    <p>I’m an investment and wealth management analyst, currently managing a €3M multi-asset portfolio for a private HNW client, covering equities, fixed income, real estate, and alternative investments. I previously interned at Granit Asset Management, contributing to equity and real estate front-office projects.</p>
   
   <p>I hold a Master’s in Economics, Data, and Policy from Central European University and a degree in International Relations from Corvinus University. Over the years, I’ve built financial analysis and data-driven decision-making skills, which I’m now putting to work in real-world investment projects. Whether it's optimizing portfolios, exploring eco-tourism investments, or structuring sustainable strategies, I’m all about turning insights into action.</p>
   
