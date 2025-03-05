@@ -1,4 +1,17 @@
+---
+layout: default
+---
+
 # Lajos Galambos
+
+<nav>
+  <ul style="list-style-type: none; display: flex; justify-content: center; padding: 10px; background-color: #f4f4f4;">
+    <li style="margin: 0 15px;"><a href="#about">About</a></li>
+    <li style="margin: 0 15px;"><a href="#investment-management">Investment Management</a></li>
+    <li style="margin: 0 15px;"><a href="#forest-escapes---eco-tourism-project">Forest Escapes</a></li>
+    <li style="margin: 0 15px;"><a href="#blog">Blog</a></li>
+  </ul>
+</nav>
 
 ## ABOUT
 Hello! I'm Lajos Galambos, an investment manager specializing in wealth management, portfolio analysis, and sustainable investment projects. I have extensive experience in financial markets and currently oversee diverse asset classes, including equities, real estate, and eco-tourism ventures.
@@ -40,8 +53,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut lib
 
 **Post Title 2** *(March 3, 2025)*  
 Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat.
-
----
-
-## Website Navigation
-[About](#about) | [Investment Management](#investment-management) | [Forest Escapes](#forest-escapes---eco-tourism-project) | [Blog](#blog)
