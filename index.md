@@ -13,7 +13,7 @@ layout: default
 
 <div id="about" class="section">
   <h2>ABOUT</h2>
-  <img src="./profile.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:auto;">
+  <img src="./IMG_3785.HEIC" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:auto;">
   <p>Hello! I'm Lajos Galambos, an investment manager specializing in wealth management, portfolio analysis, and sustainable investment projects. I have extensive experience in financial markets and currently oversee diverse asset classes, including equities, real estate, and eco-tourism ventures.</p>
 
   - **LinkedIn:** [Lajos Galambos](https://www.linkedin.com/in/lajosgalambos)
