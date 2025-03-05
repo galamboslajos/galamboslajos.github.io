@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Lajos Galambos
-
 <nav>
   <ul style="list-style-type: none; display: flex; justify-content: center; padding: 10px; background-color: #f4f4f4;">
     <li style="margin: 0 15px;"><a href="#about">About</a></li>
