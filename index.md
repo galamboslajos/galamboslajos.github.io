@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Lajos Galambos
+
 <nav>
   <ul style="list-style-type: none; display: flex; justify-content: center; padding: 10px; background-color: #f4f4f4;">
     <li style="margin: 0 15px;"><a href="#about" onclick="showSection('about')">About</a></li>
@@ -16,11 +18,11 @@ layout: default
   <img src="./IMG_3785.HEIC" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:auto;">
   <p>Hello! I'm Lajos Galambos, an investment manager specializing in wealth management, portfolio analysis, and sustainable investment projects. I have extensive experience in financial markets and currently oversee diverse asset classes, including equities, real estate, and eco-tourism ventures.</p>
 
-  - **LinkedIn:** [Lajos Galambos](https://www.linkedin.com/in/lajosgalambos)
-  - **GitHub:** [galamboslajos](https://github.com/galamboslajos)
-  - **Email:** [info@galamboscapital.com](mailto:info@galamboscapital.com)
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lajosgalambos">Lajos Galambos</a></p>
+  <p><strong>GitHub:</strong> <a href="https://github.com/galamboslajos">galamboslajos</a></p>
+  <p><strong>Email:</strong> <a href="mailto:info@galamboscapital.com">info@galamboscapital.com</a></p>
 
-  [Download My CV](./Lajos_Galambos_CV.pdf)
+  <p><a href="./Lajos_Galambos_CV.pdf" style="font-weight:bold;">Download My CV</a></p>
 </div>
 
 <div id="investment-management" class="section" style="display:none;">
