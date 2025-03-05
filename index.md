@@ -36,7 +36,7 @@ subtitle: Analyst
   <h2>Investment Management</h2>
  <p>My investment strategy is rooted in Modern Portfolio Theory, prioritizing mean-variance portfolio optimization, long-term growth, and risk-adjusted returns. The focus is on constructing a well-balanced, high-quality equity portfolio with strong statistical expectations while maintaining sectoral diversification.</p>
   
-  <p>While the portfolio is tech-heavy, U.S.-focused, and primarily large-cap, diversification occurs across industries rather than geographies, ensuring exposure to different economic cycles. This approach might allow for capturing high-growth opportunities in technology while balancing the portfolio with consumer staples, finance, and healthcare holdings to mitigate sector-specific risks.</p>
+  <p>While the portfolio is tech-heavy, U.S. focused, and primarily large-cap, diversification occurs across industries rather than geographies, ensuring exposure to different economic cycles. This approach might allow for capturing high-growth opportunities in technology while balancing the portfolio with consumer staples, finance, and healthcare holdings to mitigate sector-specific risks.</p>
   
   <img src="./portfolio_cumulative_returns.png" alt="Portfolio Performance" style="width:100%;">
 </div>
