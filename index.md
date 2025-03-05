@@ -31,7 +31,7 @@ layout: default
 
 <div id="investment-management" class="section" style="display:none;">
   <h2>Investment Management</h2>
- <p>My investment strategy is rooted in <strong>Modern Portfolio Theory</strong>, prioritizing mean-variance portfolio optimization, long-term growth, and risk-adjusted returns</strong>. The focus is on constructing a <strong>well-balanced, high-quality equity portfolio</strong> with strong statistical expectations while maintaining sectoral diversification.</p>
+ <p>My investment strategy is rooted in <strong>Modern Portfolio Theory</strong>, prioritizing mean-variance portfolio optimization, long-term growth, and risk-adjusted returns. The focus is on constructing a <strong>well-balanced, high-quality equity portfolio</strong> with strong statistical expectations while maintaining sectoral diversification.</p>
   
   <p>While the portfolio is <strong>tech-heavy, U.S.-focused, and primarily large-cap</strong>, diversification occurs <strong>across industries rather than geographies</strong>, ensuring exposure to different economic cycles. This approach might allow for capturing <strong>high-growth opportunities in technology</strong> while balancing the portfolio with <strong>consumer staples, finance, and healthcare holdings</strong> to mitigate sector-specific risks.</p>
   
