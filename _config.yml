@@ -1,7 +1,7 @@
 title: "Lajos Galambos - Analyst"
 description: "I am a finance and investment analyst with a background in economics, passionate about portfolio management, financial analysis, and exploring alternative investments."
 theme: jekyll-theme-minimal
-show_downloads: true
+show_downloads: false
 logo: "./IMG_3785.HEIC"
 favicon: "./favicon.ico"
 
