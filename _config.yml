@@ -1,6 +1,31 @@
-theme: minima
-#title: Lajos Galambos
-#description: Analyst
+title: "Lajos Galambos - Analyst"
+description: "Investment professional managing a multi-asset portfolio, specializing in wealth management, financial analysis, and alternative investments."
+theme: jekyll-theme-minimal
 show_downloads: true
-nav_pages:
-  - index.md
+logo: "./IMG_3785.HEIC"
+favicon: "./favicon.ico"
+
+# Social links
+social_links:
+  linkedin: "https://www.linkedin.com/in/lajosgalambos"
+  github: "https://github.com/galamboslajos"
+  email: "mailto:info@galamboscapital.com"
+
+# Custom navigation
+header_pages:
+  - about.md
+  - investment-management.md
+  - forest-escapes.md
+  - blog.md
+
+# Custom settings
+include:
+  - _pages
+  - assets
+  - images
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
