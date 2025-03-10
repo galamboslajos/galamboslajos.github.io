@@ -19,7 +19,6 @@
 
 
   <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lajosgalambos">Lajos Galambos</a></p>
-  <p><strong>GitHub:</strong> <a href="https://github.com/galamboslajos">galamboslajos</a></p>
   <p><strong>Email:</strong> <a href="mailto:info@galamboscapital.com">info@galamboscapital.com</a></p>
 
   <p><a href="./Lajos_Galambos_CV.pdf" style="font-weight:bold;">Download My CV</a></p>
