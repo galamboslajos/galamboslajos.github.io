@@ -1,15 +1,9 @@
 title: "Lajos Galambos - Analyst"
-description: "Investment professional managing a multi-asset portfolio, specializing in wealth management, financial analysis, and alternative investments."
+description: "I am a finance and investment analyst with a background in economics, passionate about portfolio management, financial analysis, and exploring alternative investments."
 theme: jekyll-theme-minimal
 show_downloads: true
 logo: "./IMG_3785.HEIC"
 favicon: "./favicon.ico"
-
-# Social links
-social_links:
-  linkedin: "https://www.linkedin.com/in/lajosgalambos"
-  github: "https://github.com/galamboslajos"
-  email: "mailto:info@galamboscapital.com"
 
 # Custom navigation
 header_pages:
