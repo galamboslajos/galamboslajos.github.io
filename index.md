@@ -42,7 +42,7 @@
 <div id="blog" class="section" style="display:none;">
   <h2 style="margin-bottom: 10px;">Blog</h2> <!-- Adds spacing below the title -->
   
-  <strong style="display: block; margin-bottom: 5px;">Miért gyengült a forint az elmúlt években?</strong> *(November 19, 2024)*  
+  <strong style="display: block; margin-bottom: 5px;">(November 19, 2024)</strong> Why has the Hungarian Forint depreciated so much in recent years? 
   
   <p style="margin-top: 10px;">The article written by Andras Danis and me seeks the answer to this question. It can be read on the Telex, Defacto blog (in Hungarian).</p>
   
