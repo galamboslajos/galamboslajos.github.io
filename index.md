@@ -41,12 +41,10 @@
 
 <div id="blog" class="section" style="display:none;">
   <h2>Blog</h2>
-  <p>Latest Posts _(New posts will be added on top)_</p>
-  <strong>Post Title 1</strong> *(March 5, 2025)*  
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.</p>
-
-  <strong>Post Title 2</strong> *(March 3, 2025)*  
-  <p>Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat.</p>
+  
+  <strong>Miért gyengült a forint az elmúlt években?*(November 19, 2024)*  
+  <p>The article written by Andras Danis and me seeks the answer to this question. It can be read on the Telex, Defacto blog (in Hungarian).</p>
+  <p><a href="./https://telex.hu/defacto/2024/11/19/gyenge-forint-gazdasag-jegybank-dollar-egyesult-allamok" style="font-weight:bold;">The Article</a></p>
 </div>
 
 <script>
