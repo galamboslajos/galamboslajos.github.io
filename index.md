@@ -40,13 +40,18 @@
 </div>
 
 <div id="blog" class="section" style="display:none;">
-  <h2>Blog</h2>
+  <h2 style="margin-bottom: 10px;">Blog</h2> <!-- Adds spacing below the title -->
   
-  <strong>Miért gyengült a forint az elmúlt években?</strong> *(November 19, 2024)*  
+  <strong style="display: block; margin-bottom: 5px;">Miért gyengült a forint az elmúlt években?</strong> *(November 19, 2024)*  
   
-  <p>The article written by Andras Danis and me seeks the answer to this question. It can be read on the Telex, Defacto blog (in Hungarian).</p>
-  <p><a href="./https://telex.hu/defacto/2024/11/19/gyenge-forint-gazdasag-jegybank-dollar-egyesult-allamok" style="font-weight:bold;">The Article</a></p>
+  <p style="margin-top: 10px;">The article written by Andras Danis and me seeks the answer to this question. It can be read on the Telex, Defacto blog (in Hungarian).</p>
   
+  <p><a href="https://telex.hu/defacto/2024/11/19/gyenge-forint-gazdasag-jegybank-dollar-egyesult-allamok" 
+        target="_blank" 
+        style="font-weight:bold; text-decoration: underline; color: #0077cc;">
+        Read the Article
+     </a>
+  </p>
 </div>
 
 <script>
