@@ -42,9 +42,11 @@
 <div id="blog" class="section" style="display:none;">
   <h2>Blog</h2>
   
-  <strong>Miért gyengült a forint az elmúlt években?*(November 19, 2024)*  
+  <strong>Miért gyengült a forint az elmúlt években?</strong> *(November 19, 2024)*  
+  
   <p>The article written by Andras Danis and me seeks the answer to this question. It can be read on the Telex, Defacto blog (in Hungarian).</p>
   <p><a href="./https://telex.hu/defacto/2024/11/19/gyenge-forint-gazdasag-jegybank-dollar-egyesult-allamok" style="font-weight:bold;">The Article</a></p>
+  
 </div>
 
 <script>
