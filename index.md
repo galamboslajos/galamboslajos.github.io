@@ -11,9 +11,9 @@
   <h2>ABOUT</h2>
     <p>I’m an investment and wealth management analyst, currently managing a €3M multi-asset portfolio for a private HNW client, covering equities, fixed income, real estate, and alternative investments. I previously interned at Granit Asset Management, contributing to equity and real estate front-office projects.</p>
   
-  <p>I hold a Master’s in Economics, Data, and Policy from Central European University and a degree in International Relations from Corvinus University. Over the years, I’ve built financial analysis and data-driven decision-making skills, which I’m now putting to work in real-world investment projects. Whether it's optimizing portfolios, exploring eco-tourism investments, or structuring sustainable strategies, I’m all about turning insights into action.</p>
+  <p>I hold a Master’s in Economics, Data, and Policy from Central European University and a degree in International Relations from Corvinus University. Over the years, I’ve built financial analysis and data-driven decision-making skills, which I’m now putting to work in real-world investment projects. Whether it's optimizing portfolios, building quantitative trading methods, or structuring sustainable strategies, I’m all about turning insights into action.</p>
   
-  <p>I have a deep appreciation for economic science and its role in shaping societies, policies, and markets. Beyond my work in investment analysis, I actively learn various fields within economics, from development economics to macroeconomics. I also maintain a strong interest in international relations and global affairs, regularly following geopolitical dynamics and policy shifts. A specific focus of mine has been Western Balkan and Central Eastern European affairs, both in terms of economic development and political evolution, as these regions present unique challenges and opportunities within the broader European landscape.</p>
+  <p>I have a deep appreciation for economic science and its role in shaping societies, policies, and markets. Beyond my work in investment analysis, I actively learn various fields within economics, from development economics to macroeconomics. I also maintain a strong interest in international relations and global affairs, regularly following geopolitical dynamics and policy shifts.</p>
   
 
 
