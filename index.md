@@ -26,17 +26,11 @@
 
 <div id="investment-management" class="section" style="display:none;">
   <h2>Investment Management</h2>
- <p>My investment strategy is rooted in Modern Portfolio Theory, prioritizing mean-variance portfolio optimization, long-term growth, and risk-adjusted returns. The focus is on constructing a well-balanced, high-quality equity portfolio with strong statistical expectations while maintaining sectoral diversification.</p>
-  
-  <p>While the portfolio is tech-heavy, U.S. focused, and primarily large-cap, diversification occurs across industries rather than geographies, ensuring exposure to different economic cycles. This approach might allow for capturing high-growth opportunities in technology while balancing the portfolio with consumer staples, finance, and healthcare holdings to mitigate sector-specific risks.</p>
+<p>My investment approach emphasizes systematic, daily frequency decision-making grounded in 5 minute level data. Rather than relying on traditional buy-and-hold principles, I build and trade dynamic strategies informed by volume flows, price volatility, and technical signals.</p>
+
+<p>The strategies are focused on U.S. equities and equity indices, combining both individual stock selection and index-level opportunities. The emphasis has shifted from passive diversification to active pattern recognition and execution precision, aiming to exploit short term shocks accross instruments.</p>
   
   <img src="./portfolio_cumulative_returns.png" alt="Portfolio Performance" style="width:100%;">
-</div>
-
-<div id="forest-escapes" class="section" style="display:none;">
-  <h2>Forest Escapes - Eco Tourism Project</h2>
-  <p>One of my latest projects is <strong>Forest Escapes</strong>, an eco-tourism initiative aimed at sustainable and luxurious getaways in nature.</p>
-  <img src="./Forest1.png" alt="Forest Escapes" style="width:100%;">
 </div>
 
 <div id="blog" class="section" style="display:none;">
