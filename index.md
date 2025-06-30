@@ -3,7 +3,6 @@
   <ul style="list-style-type: none; display: flex; justify-content: center; padding: 10px; background-color: #f4f4f4;">
     <li style="margin: 0 15px;"><a href="#about" onclick="showSection('about')">About</a></li>
     <li style="margin: 0 15px;"><a href="#investment-management" onclick="showSection('investment-management')">Investment Management</a></li>
-    <li style="margin: 0 15px;"><a href="#forest-escapes" onclick="showSection('forest-escapes')">Forest Escapes</a></li>
     <li style="margin: 0 15px;"><a href="#blog" onclick="showSection('blog')">Blog</a></li>
   </ul>
 </nav>
